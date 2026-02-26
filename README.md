@@ -1,2 +1,3 @@
-# Aplicatvo-2.0
-aplicativo com foco no banco de dados e controle de estoque e venda
+<div align="right">
+  <img width="100%" src="public/images/gif.gif" alt="Cozy Animation">
+</div>
